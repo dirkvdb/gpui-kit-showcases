@@ -1,0 +1,16 @@
+{
+  "id": "topq",
+  "name": "TopQ",
+  "author": "dirkvdb",
+  "description": "MQTT broker topic explorer. With live topic tree, payload pane with diff support and value monitoring with charts.",
+  "category": "system",
+  "platforms": ["macOS", "Windows", "Linux"],
+  "website": null,
+  "source": "https://github.com/dirkvdb/topq",
+  "publishedAt": "2026-10-21T00:00:00Z",
+  "previews": [
+    "preview0.png",
+    "preview1.png",
+    "preview2.png"
+  ]
+}
